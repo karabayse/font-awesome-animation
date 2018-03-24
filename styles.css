@@ -4,26 +4,22 @@ body {
   margin-top: 30px;
 }
 
-.fa {
-  text-align: center;
-}
-
 #piedPiper {
-  font-size: 200px;
+  font-size: 100px;
   color: Green;
   text-align: center;
 }
 
 #chain, #battery, #hourglass {
-  font-size: 200px;
+  font-size: 100px;
 }
 
 #chain {
   color: Grey;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 #hourglass {
   color: Tan;
-  margin-left: 40px;
+  margin-left: 20px;
 }
